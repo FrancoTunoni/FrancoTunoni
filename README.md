@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there, I'm Franco Matias Tunoni👋👋</h1>
 
-- 🌱 I’m currently learning in mixing design with programming. I value the possibility of working as a team, with the objective of sharing my knowledge and learning about the experience of the rest.
+- 🌱 I’m currently learning how to apply design to programming. I enjoy team work as it gives me the opportunity to share my knowledge and learn from others, through experience and hard work.
 - 📫 How to reach me ...<a href="https://www.linkedin.com/in/francotunoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.behance.net/francotunoni"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
-- 👀 Fun fact: I'm an Industrial designer passionate about UX/UI Design
+- 👀 Fun fact: I'm actually an Industrial designer.
 
 <h4> Frontend </h4> 
 <p>
